@@ -2,7 +2,7 @@ import fs from "fs"
 import path from "path"
 
 // console.log(fs)
-const folderlocation = 'D:\\WEB DEV\\CODE WITH HARRY\\PRACTICE\\clear clutter'
+const folderlocation = 'D:\\WEB DEV\\PRACTICE\\clear clutter'
 
 let AllFiles =  fs.readdirSync(folderlocation)
 // console.log(AllFiles)
